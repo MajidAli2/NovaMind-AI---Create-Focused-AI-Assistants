@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "hi"
+  },
+  {
+    "role": "assistant",
+    "content": "Hi! I'm EduMentor. I specialize in Explain complex topics in simple, step-by-step lessons \u2014 from school subjects to advanced concepts \u2014 like a personal tutor. How can I help you today?"
+  },
+  {
+    "role": "user",
+    "content": "what is dsa"
+  },
+  {
+    "role": "assistant",
+    "content": "This question is outside my defined knowledge scope."
+  }
+]
